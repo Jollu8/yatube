@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+# Dev/yadube/.gitignore
+./vscode
 # Distribution / packaging
 .Python
 build/
@@ -127,3 +129,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
